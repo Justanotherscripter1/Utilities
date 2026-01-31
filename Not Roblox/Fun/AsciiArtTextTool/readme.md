@@ -1,2 +1,2 @@
--- Ascii Art Text Tool. Yep.
---MIT license; fonts from [TAAG](https://patorjk.com/software/taag/)
+# Ascii Art Text Tool. Yep.
+\nMIT license; fonts from [TAAG](https://patorjk.com/software/taag/)
